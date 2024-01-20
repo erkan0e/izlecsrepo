@@ -3,6 +3,6 @@
     "description": "Türkçe içerikli eklenti havuzu",
     "manifestVersion": 1,
     "pluginLists": [
-      ""
+      "https://raw.githubusercontent.com/erkan0e/izlecsrepo/master/repo.json"
     ]
 }
